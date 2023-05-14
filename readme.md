@@ -30,7 +30,7 @@ This will run the model on the dataset and output the accuracy score.
 
 ## Model
 
-The model used in this project is a simple Naive Bayes classifier. We used the NLTK library to preprocess the text data and extract features from the tweets. The features used in this model include word frequencies and presence of certain words and emoticons commonly associated with positive or negative sentiment.
+The model used in this project is a RandomForesrClassifier. I used the NLTK library to preprocess the text data and extract features from the tweets. The features used in this model include word frequencies and presence of certain words and emoticons commonly associated with positive or negative sentiment.
 
 ## Conclusion
 
