@@ -2,6 +2,7 @@
 
 This project aims to detect the mood or sentiment of a tweet using natural language processing techniques. The model used in this project has an accuracy score of 88% and was built as a beginner level project.
 
+![alt text](text_to_mood_detect/preview.png)
 ## Dataset
 
 The dataset used in this project is the emotion_dataset_twitter dataset, which consists of 2000 tweets labeled as 0,1,2,3,4.
